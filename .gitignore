@@ -112,4 +112,4 @@ propiedades.locales
 # Codepro
 .codepro /
 /.project
-/.project/
+.DS_Store
